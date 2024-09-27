@@ -1,4 +1,4 @@
-package br.com.osterloh;
+package br.com.CamillyGoltz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
